@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "fonksiyon-hesap makinası/1.0.0": {
+        "runtime": {
+          "fonksiyon-hesap makinası.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fonksiyon-hesap makinası/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
